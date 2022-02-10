@@ -1,0 +1,12 @@
+    .modal {
+    height: 50vh;
+        width: 20vw;
+    background-color: #8CB4D9;
+    position: center;
+    justify-content: center;
+        display: flex;
+        align-items: center;
+}
+    .modal_content {
+
+}
